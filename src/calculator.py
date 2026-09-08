@@ -18,3 +18,4 @@ def divide(a, b):
 print(4, 5)
 print('hello')
 print('salam')
+print('nuy')
