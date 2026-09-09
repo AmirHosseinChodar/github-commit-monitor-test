@@ -67,3 +67,72 @@ print('salam')
 print('salam')
 print('salam')
 print('salam')
+def add(a, b):
+    return a + b
+
+
+def subtract(a, b):
+    return a - b
+
+
+def multiply(a, b):
+    return a * b
+
+
+def divide(a, b):
+    if b == 0:
+        raise ValueError("Cannot divide by zero")
+
+    return a / b
+print(4, 5)
+print('hello')
+print('salam')
+print('nuy')
+print('hello')
+print('salam')
+print('salam')
+print('salam')
+print('salam')
+print('salam')
+print('salam')
+print('salam')
+print('salam')
+print('salam')
+print('salam')
+print('salam')
+print('salam')
+print('salam')
+print('salam')
+print('salam')
+print('salam')
+print('salam')
+print('salam')
+print('salam')
+print('salam')
+print('salam')
+print('salam')
+print('salam')
+print('salam')
+print('salam')
+print('salam')
+print('salam')
+print('salam')
+print('salam')
+print('salam')
+print('salam')
+print('salam')
+print('salam')
+print('salam')
+print('salam')
+print('salam')
+print('salam')
+print('salam')
+print('salam')
+print('salam')
+print('salam')
+
+print('salam')
+print('salam')
+print('salam')
+print('salam')
+print('salam')
