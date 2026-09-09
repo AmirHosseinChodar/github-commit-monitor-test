@@ -162,3 +162,5 @@ print('salam')
 
 print('salam')
 print('salam')
+def multiply(a, b):
+    return a * b
