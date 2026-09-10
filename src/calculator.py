@@ -204,4 +204,6 @@ print(3)
 print(3)
 
 def multiply(a, b):
+    print(3)
+
     return a * b
