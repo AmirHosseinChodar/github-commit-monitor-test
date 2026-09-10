@@ -207,3 +207,7 @@ def multiply(a, b):
     print(3)
 
     return a * b
+
+
+
+print(3)
